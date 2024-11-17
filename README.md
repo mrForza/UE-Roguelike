@@ -140,10 +140,10 @@
 
 ### Референсы
 
-![Data Tables в UE](https://www.youtube.com/watch?v=L1hz3tqg5QQ)
+Data Tables в UE - https://www.youtube.com/watch?v=L1hz3tqg5QQ
 
-![Работа с материалами](https://www.youtube.com/watch?v=U4iTwq7a7Ds)
+Работа с материалами - https://www.youtube.com/watch?v=U4iTwq7a7Ds
 
-![Взаимодействие с акторами](https://www.youtube.com/watch?v=k6oKBVRaLLo)
+Взаимодействие с акторами - https://www.youtube.com/watch?v=k6oKBVRaLLo
 
 <br>
